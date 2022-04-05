@@ -4,8 +4,8 @@ use std::cmp::Ordering;
 
 fn main() {
     println!("Угадай цифру");
-loop{
     let secret_number = rand::thread_rng().gen_range(1..101);
+loop{
 
     println!("Введи число чтоб угадать загаданное");
 
