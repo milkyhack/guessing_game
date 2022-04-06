@@ -27,7 +27,7 @@ let guess : u32 = match guess.trim().parse() {
     println!("Твоё число : {}", guess);
 
     if   guess == quit {
-        println!("пока");
+        println!("вы успешно вышли");
         break;
     }
 
