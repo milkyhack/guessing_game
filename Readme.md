@@ -72,5 +72,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 > Made with 🎉 by [your-username](https://github.com/your-username)
 
 ---
-
-![footer](https://via.placeholder.com/800x100.png?text=Elegant+Footer)
